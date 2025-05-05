@@ -3,7 +3,7 @@
 ## A fully beautiful website design 
 
 ## Watch the screenshots!
-![website_photo](https://github.com/ahmed8mansour/comet/assets/108304589/54f5ec87-9063-4f33-b6f6-4929938605e1)
+![leon website](https://github.com/user-attachments/assets/64cd315a-0558-4ad9-8bcf-4137232bb4e3)
 
 
 ## the info : 
