@@ -1,11 +1,6 @@
 # leon website
 
-## A fully beautiful website design 
-
-## Watch the screenshots!
-![leon website](https://github.com/user-attachments/assets/64cd315a-0558-4ad9-8bcf-4137232bb4e3)
-
-
+## A fully beautiful website design
 ## the info : 
 - level : intermediate
 - language : html and css
